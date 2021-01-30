@@ -1,6 +1,6 @@
 {
-"name": "UMA",
-"logoURI": "https://umaproject.org/assets/images/UMA_square_red_logo_circle.png",
+"name": "l2l",
+"logoURI": "https://app.2local.io/favicon.png",
 "keywords": [
 "defi",
 "uma",
@@ -10,9 +10,9 @@
 "tokens": [
 {
 "chainId": 1,
-"address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
-"name": "UMA",
-"symbol": "UMA",
+"address": "0x98c3cf2806068e2f7b7b8ccf40a9f6214c886821",
+"name": "2local",
+"symbol": "l2l",
 "decimals": 18
 }
 
