@@ -1,5 +1,5 @@
 {
-"name": "l2l",
+"name": "L2L",
 "logoURI": "https://app.2local.io/favicon.png",
 "keywords": [
 "defi",
@@ -14,7 +14,7 @@
 "chainId": 1,
 "address": "0x98c3cf2806068e2f7b7b8ccf40a9f6214c886821",
 "name": "2local",
-"symbol": "l2l",
+"symbol": "L2L",
 "decimals": 18
 }
 
